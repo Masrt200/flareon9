@@ -1,0 +1,9 @@
+type this: gimme flag pls?
+move the ball like this: LLURULDUL
+press enter
+
+the program was checking for the ball sequence
+and then comparing our input with "gimme flag pls?"
+
+
+U_cRackeD_th1$_maG1cBaLL_!!_@flare-on.com

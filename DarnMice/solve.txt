@@ -1,0 +1,7 @@
+a function takes each byte from our input,
+adds it to some stored value, and calls a function on it!
+
+only way to prevent a crash, is if adding both number returns in a ret (0xc3) instruction 
+
+input -> "see three, C3 C3 C3 C3 C3 C3 C3! XD"
+flag: i_w0uld_l1k3_to_RETurn_this_joke@flare-on.com

@@ -1,0 +1,9 @@
+solve quickly
+set date to 10-10-2022
+break at the 0x401020() and set the random value to 11950
+
+put "server_ip flare-on.com" in your hostfile
+host a file on the port 80, index.html containing the base64 recieved from the first packet
+keep stepping in main and get the flag!!!
+
+i_s33_you_m00n@flare-on.com
